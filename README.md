@@ -14,8 +14,6 @@ Die Tisch-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die 
 ### [ToolsLocker](https://github.com/makerspace-wi/ToolsLocker/wiki)
 Im ToolsLocker Fach "Bohrer/Fräser" (Freischaltung erforderlich) befindet sich ein einfaches Fräser Set.
 Bitte immer sicherstellen, dass nach der Arbeit das Set - komplett - zurückgestellt wird und ggf. defekte Fräser im Kanal #schadensmelder gemeldet werden.
-  
-<img src="https://user-images.githubusercontent.com/42463588/129173707-4acb66d5-490d-45fb-bf54-a5bc99593962.jpg" width="300" border = "0" alt="ToolsLockerbox">
 
 ### Thema Fräser ###
 Jeder Nutzer der Tisch-Fräse sollte sich eigne Holz Fräser anschaffen, vielleicht auch mit jemandem teilen.<br>
