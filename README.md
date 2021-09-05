@@ -4,6 +4,26 @@ Makerspace Wiesbaden DIY Tischfräse
 
 ![IMG_8911](https://user-images.githubusercontent.com/42463588/132126528-2c6dc2d5-b62c-412d-b9e1-b67caff7faf4.jpg)
 
+# Vorwort
+Es handelt sich dabei um eine leistungsstarke, stationäre <b>Holz Tisch-Fräse</b>, die von Jens L. entworfen und aufgebaut wurde.<br>
+Der momentan genutzte Fräsmotor hat eine Leistung von 2.400 Watt
+
+### Einweisungen
+Die Tisch-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die Einweisung dauert ca. 1,5 Stunden und es erfolgt direkt danach die Freischaltung des entsprechenden Mitglieds.
+
+### [ToolsLocker](https://github.com/makerspace-wi/ToolsLocker/wiki)
+Im ToolsLocker Fach "Bohrer/Fräser" (Freischaltung erforderlich) befindet sich ein einfaches Fräser Set.
+Bitte immer sicherstellen, dass nach der Arbeit das Set - komplett - zurückgestellt wird und ggf. defekte Fräser im Kanal #schadensmelder gemeldet werden.
+  
+<img src="https://user-images.githubusercontent.com/42463588/129173707-4acb66d5-490d-45fb-bf54-a5bc99593962.jpg" width="300" border = "0" alt="ToolsLockerbox">
+
+### Thema Fräser ###
+Jeder Nutzer der Tisch-Fräse sollte sich eigne Holz Fräser anschaffen, vielleicht auch mit jemandem teilen.<br>
+
+Bezugsquelle(n): 
+https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/2-schneider/Schaftfraeser-HOLZ/ oder
+https://www.feinewerkzeuge.de/
+
 <img src="https://user-images.githubusercontent.com/42463588/132126728-3544ec4e-59bf-4503-900f-78e61874114b.JPG" width="400" border = "0" alt="RFID-Reader"> <img src="https://user-images.githubusercontent.com/42463588/132126785-ce67e36d-4c6e-4775-abb4-1d5699ec893a.jpg" width="400" border = "0" alt="Maschinenschalter">
 
 ![IMG_8912](https://user-images.githubusercontent.com/42463588/132126582-45e57c95-2bc5-4e43-9593-b3eff5ab0045.jpg)
