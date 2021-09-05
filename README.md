@@ -22,6 +22,13 @@ Bezugsquelle(n):
 https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/2-schneider/Schaftfraeser-HOLZ/ oder
 https://www.feinewerkzeuge.de/
 
+## Typischer Fräsprojekt Ablauf ##
+
+* [ggf. vorher das 'public' Fräser Set aus dem Toolslocker holen](#ToolsLocker)
+* mit RFID-Chip anmelden und Fräse einschalten
+   * [Einloggen](#Freigabe-mit-RFID-Chip)
+   * [Einschalten](#Einschalten)
+
 <img src="https://user-images.githubusercontent.com/42463588/132126728-3544ec4e-59bf-4503-900f-78e61874114b.JPG" width="400" border = "0" alt="RFID-Reader"> <img src="https://user-images.githubusercontent.com/42463588/132126785-ce67e36d-4c6e-4775-abb4-1d5699ec893a.jpg" width="400" border = "0" alt="Maschinenschalter">
 
 ![IMG_8912](https://user-images.githubusercontent.com/42463588/132126582-45e57c95-2bc5-4e43-9593-b3eff5ab0045.jpg)
