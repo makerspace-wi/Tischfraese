@@ -5,7 +5,7 @@ Makerspace Wiesbaden DIY Tischfräse
 
 ![IMG_8912](https://user-images.githubusercontent.com/42463588/132126582-45e57c95-2bc5-4e43-9593-b3eff5ab0045.jpg)
 
-![IMG_8913](https://user-images.githubusercontent.com/42463588/132126641-4aaff749-99ab-4f54-8c47-48fe5911bfc7.jpg)
+
 
 ![IMG_8914](https://user-images.githubusercontent.com/42463588/132126650-e0c905f1-d549-4cdd-b3fe-50d152c86f03.jpg)
 
