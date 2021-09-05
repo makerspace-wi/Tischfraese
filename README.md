@@ -25,6 +25,8 @@ https://www.feinewerkzeuge.de/
 ## Typischer Fräsprojekt Ablauf ##
 
 * [ggf. vorher das 'public' Fräser Set aus dem Toolslocker holen](#ToolsLocker)
+* Spänebehälter prüfen ob geleert - ggf. entleeren
+* 'Mini Blast Gate' Schieber öffnen
 * mit RFID-Chip anmelden und Fräse einschalten
    * [Einloggen](#Freigabe-mit-RFID-Chip)
    * [Einschalten](#Einschalten)
