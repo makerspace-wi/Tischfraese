@@ -43,28 +43,11 @@ https://www.feinewerkzeuge.de/
 
 * Motorgeschwindigkeit einstellen (abhängig von Fräserdurchmesser - siehe Tabelle an der Wand)
 <img src="https://user-images.githubusercontent.com/42463588/132127005-0a6c4dca-7b4f-4121-a166-683881705dfb.jpg" width="400" border = "0" alt="Geschwindigkeit">
+* Abstand der Aluseitenteile einstellen (evtl. mit Meßuhr) und fixieren
+* Federkämme montieren
+  * 2 Stück an den Seitenführungsteilen und ggf. 2 Stück auf der Grundplatte
 
-* mit RFID-Chip anmelden und Fräse einschalten
-   * [Einloggen](#Freigabe-mit-RFID-Chip)
-   * [Einschalten](#Einschalten)
+* mit RFID-Chip anmelden und Fräse am Maschinenschalter einschalten
 
 <img src="https://user-images.githubusercontent.com/42463588/132126728-3544ec4e-59bf-4503-900f-78e61874114b.JPG" width="400" border = "0" alt="RFID-Reader"> <img src="https://user-images.githubusercontent.com/42463588/132126785-ce67e36d-4c6e-4775-abb4-1d5699ec893a.jpg" width="400" border = "0" alt="Maschinenschalter">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
