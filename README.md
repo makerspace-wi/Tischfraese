@@ -26,9 +26,10 @@ https://www.feinewerkzeuge.de/
 
 * [ggf. vorher das 'public' Fräser Set aus dem Toolslocker holen](#ToolsLocker)
 * Spänebehälter prüfen - ggf. entleeren und 'Mini Blast Gate' Schieber öffnen - Achtung, beim Betrieb der Maschine schliessen sich manchmal die Schieber eigenständig durch die Vibration<br><br><img src="https://user-images.githubusercontent.com/42463588/132126768-254fd662-93a7-4931-a3a7-9da7e28ae2a5.JPG" width="400" border = "0" alt="Absaugung 2"><img src="https://user-images.githubusercontent.com/42463588/132126754-3b9531fb-09e6-418e-8783-d47c24b6b87a.JPG" width="400" border = "0" alt="Absaugung 1">
-* Fräser montieren
-  * passende Spannzange und Überwurfmutter aus der Zubehörbox entnehmen und in den Spindelmotor einsetzen (leicht andrehen) Spannzangen
-Fräser tief genug einsetzen und dann mit den beiden Schraubenschlüssel die Überwurfmutter spannen
+* Fräsmotor 
+  * passende Spannzange und Überwurfmutter aus der Zubehörbox entnehmen und in den Spindelmotor einsetzen (leicht andrehen) [Spannzangen](#Spannzangen)
+  * Fräser tief genug einsetzen und dann mit den beiden Schraubenschlüssel die Überwurfmutter spannen
+
 
 * mit RFID-Chip anmelden und Fräse einschalten
    * [Einloggen](#Freigabe-mit-RFID-Chip)
