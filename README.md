@@ -43,7 +43,7 @@ https://www.feinewerkzeuge.de/
 
 * Motorgeschwindigkeit einstellen (abhängig von Fräserdurchmesser - siehe Tabelle an der Wand)
 <img src="https://user-images.githubusercontent.com/42463588/132127005-0a6c4dca-7b4f-4121-a166-683881705dfb.jpg" width="400" border = "0" alt="Geschwindigkeit">
-* Abstand der Aluseitenteile einstellen (evtl. mit Meßuhr) und fixieren
+* Abstand der Aluseitenteile zum Fräser einstellen (evtl. mit Meßuhr) und fixieren
 * Federkämme montieren
   * 2 Stück an den Seitenführungsteilen und ggf. 2 Stück auf der Grundplatte
 
