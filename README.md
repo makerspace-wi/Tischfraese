@@ -26,10 +26,11 @@ https://www.feinewerkzeuge.de/
 
 * [ggf. vorher das 'public' Fräser Set aus dem Toolslocker holen](#ToolsLocker)
 * Spänebehälter prüfen - ggf. entleeren und 'Mini Blast Gate' Schieber öffnen - Achtung, beim Betrieb der Maschine schliessen sich manchmal die Schieber eigenständig durch die Vibration<br><br><img src="https://user-images.githubusercontent.com/42463588/132126768-254fd662-93a7-4931-a3a7-9da7e28ae2a5.JPG" width="400" border = "0" alt="Absaugung 2"><img src="https://user-images.githubusercontent.com/42463588/132126754-3b9531fb-09e6-418e-8783-d47c24b6b87a.JPG" width="400" border = "0" alt="Absaugung 1">
-* Fräsmotor 
-  * passende Spannzange und Überwurfmutter aus der Zubehörbox entnehmen und in den Spindelmotor einsetzen (leicht andrehen) [Spannzangen](#Spannzangen)
-  * Fräser tief genug einsetzen und dann mit den beiden Schraubenschlüssel die Überwurfmutter spannen
+* Fräser montieren
+  * passende Spannzange und Überwurfmutter aus den grünen Behältern entnehmen und in den Spindelmotor einsetzen (leicht andrehen)
+  * Fräser einsetzen (bis zur Markierung) und dann mit dem 22er Schraubenschlüssel anziehen, dabei die Spindelarretierung gedrückt halten (bild rechts).
 
+<img src="https://user-images.githubusercontent.com/42463588/132126582-45e57c95-2bc5-4e43-9593-b3eff5ab0045.jpg" width="400" border = "0" alt="Spindel"> <img src="https://user-images.githubusercontent.com/42463588/132126936-72e385a6-6f88-44dc-8564-c033ed81c52d.jpg" width="400" border = "0" alt="Arretierung">
 
 * mit RFID-Chip anmelden und Fräse einschalten
    * [Einloggen](#Freigabe-mit-RFID-Chip)
@@ -37,11 +38,11 @@ https://www.feinewerkzeuge.de/
 
 <img src="https://user-images.githubusercontent.com/42463588/132126728-3544ec4e-59bf-4503-900f-78e61874114b.JPG" width="400" border = "0" alt="RFID-Reader"> <img src="https://user-images.githubusercontent.com/42463588/132126785-ce67e36d-4c6e-4775-abb4-1d5699ec893a.jpg" width="400" border = "0" alt="Maschinenschalter">
 
-![IMG_8912](https://user-images.githubusercontent.com/42463588/132126582-45e57c95-2bc5-4e43-9593-b3eff5ab0045.jpg)
+
 
 ![IMG_8913](https://user-images.githubusercontent.com/42463588/132127005-0a6c4dca-7b4f-4121-a166-683881705dfb.jpg)
 
-![IMG_8914](https://user-images.githubusercontent.com/42463588/132126936-72e385a6-6f88-44dc-8564-c033ed81c52d.jpg)
+
 
 <img src="https://user-images.githubusercontent.com/42463588/132126943-c8ca935b-9feb-4647-8f93-f086b745f2a7.jpg" width="400" border = "0" alt="Höheneinstellung 1">  <img src="https://user-images.githubusercontent.com/42463588/132127771-7d1f2245-ee75-4da5-8160-ad52389da67f.jpg" width="400" border = "0" alt="Höheneinstellung 2">
 
