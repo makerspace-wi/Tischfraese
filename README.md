@@ -18,7 +18,7 @@ Bitte immer sicherstellen, dass nach der Arbeit das Set - komplett - zurückgest
 ### Thema Fräser ###
 Jeder Nutzer der Tisch-Fräse sollte sich eigne Holz Fräser anschaffen, vielleicht auch mit jemandem teilen.<br>
 
-Bezugsquelle(n): 
+Bezugsquelle(n):<br> 
 https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/2-schneider/Schaftfraeser-HOLZ/ oder<br>
 https://www.feinewerkzeuge.de/
 
