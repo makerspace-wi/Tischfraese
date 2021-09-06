@@ -41,6 +41,8 @@ https://www.feinewerkzeuge.de/
 
 * Passende Abdeckplatte einsetzen
 
+* Motorgeschwindigkeit einstellen (abhängig von Fräserdurchmesser - siehe Tabelle an der Wand)
+<img src="https://user-images.githubusercontent.com/42463588/132127005-0a6c4dca-7b4f-4121-a166-683881705dfb.jpg" width="400" border = "0" alt="Geschwindigkeit">
 
 * mit RFID-Chip anmelden und Fräse einschalten
    * [Einloggen](#Freigabe-mit-RFID-Chip)
@@ -50,7 +52,6 @@ https://www.feinewerkzeuge.de/
 
 
 
-![IMG_8913](https://user-images.githubusercontent.com/42463588/132127005-0a6c4dca-7b4f-4121-a166-683881705dfb.jpg)
 
 
 
