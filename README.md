@@ -40,7 +40,6 @@ https://www.feinewerkzeuge.de/
 <img src="https://user-images.githubusercontent.com/42463588/132126943-c8ca935b-9feb-4647-8f93-f086b745f2a7.jpg" width="400" border = "0" alt="Höheneinstellung 1">  <img src="https://user-images.githubusercontent.com/42463588/132127771-7d1f2245-ee75-4da5-8160-ad52389da67f.jpg" width="400" border = "0" alt="Höheneinstellung 2">
 
 * Passende Abdeckplatte einsetzen
-
 * Motorgeschwindigkeit einstellen (abhängig von Fräserdurchmesser - siehe Tabelle an der Wand)
 <img src="https://user-images.githubusercontent.com/42463588/132127005-0a6c4dca-7b4f-4121-a166-683881705dfb.jpg" width="400" border = "0" alt="Geschwindigkeit">
 * Abstand der Aluseitenteile zum Fräser einstellen (evtl. mit Meßuhr) und fixieren
@@ -49,4 +48,3 @@ https://www.feinewerkzeuge.de/
 * mit RFID-Chip anmelden und Fräse am Maschinenschalter einschalten
 
 <img src="https://user-images.githubusercontent.com/42463588/132126728-3544ec4e-59bf-4503-900f-78e61874114b.JPG" width="400" border = "0" alt="RFID-Reader"> <img src="https://user-images.githubusercontent.com/42463588/132126785-ce67e36d-4c6e-4775-abb4-1d5699ec893a.jpg" width="400" border = "0" alt="Maschinenschalter">
-
