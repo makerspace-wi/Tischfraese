@@ -32,6 +32,16 @@ https://www.feinewerkzeuge.de/
 
 <img src="https://user-images.githubusercontent.com/42463588/132126582-45e57c95-2bc5-4e43-9593-b3eff5ab0045.jpg" width="400" border = "0" alt="Spindel"> <img src="https://user-images.githubusercontent.com/42463588/132126936-72e385a6-6f88-44dc-8564-c033ed81c52d.jpg" width="400" border = "0" alt="Arretierung">
 
+* Fräshöhe einstellen
+  * zuerst Arretierung lösen
+  * dann mit Höhenverstellwerkzeug und Meßuhr dei gewünschte Höhe einstellen
+  * danach unbedigt wieder die Arretierung spannen
+
+<img src="https://user-images.githubusercontent.com/42463588/132126943-c8ca935b-9feb-4647-8f93-f086b745f2a7.jpg" width="400" border = "0" alt="Höheneinstellung 1">  <img src="https://user-images.githubusercontent.com/42463588/132127771-7d1f2245-ee75-4da5-8160-ad52389da67f.jpg" width="400" border = "0" alt="Höheneinstellung 2">
+
+* Passende Abdeckplatte einsetzen
+
+
 * mit RFID-Chip anmelden und Fräse einschalten
    * [Einloggen](#Freigabe-mit-RFID-Chip)
    * [Einschalten](#Einschalten)
@@ -44,7 +54,7 @@ https://www.feinewerkzeuge.de/
 
 
 
-<img src="https://user-images.githubusercontent.com/42463588/132126943-c8ca935b-9feb-4647-8f93-f086b745f2a7.jpg" width="400" border = "0" alt="Höheneinstellung 1">  <img src="https://user-images.githubusercontent.com/42463588/132127771-7d1f2245-ee75-4da5-8160-ad52389da67f.jpg" width="400" border = "0" alt="Höheneinstellung 2">
+
 
 
 
