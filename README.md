@@ -25,8 +25,8 @@ https://www.feinewerkzeuge.de/
 ## Typischer Fräsprojekt Ablauf ##
 
 * [ggf. vorher das 'public' Fräser Set aus dem Toolslocker holen](#ToolsLocker)
-* Spänebehälter prüfen ob geleert - ggf. entleeren<br><br><img src="https://user-images.githubusercontent.com/42463588/132126768-254fd662-93a7-4931-a3a7-9da7e28ae2a5.JPG" width="400" border = "0" alt="Absaugung 2">
-* 'Mini Blast Gate' Schieber öffnen <br><br> <img src="https://user-images.githubusercontent.com/42463588/132126754-3b9531fb-09e6-418e-8783-d47c24b6b87a.JPG" width="400" border = "0" alt="Absaugung 1">
+* Spänebehälter prüfen - ggf. entleeren<br><br><img src="https://user-images.githubusercontent.com/42463588/132126768-254fd662-93a7-4931-a3a7-9da7e28ae2a5.JPG" width="400" border = "0" alt="Absaugung 2">
+* 'Mini Blast Gate' Schieber öffnen - Achtung, beim Betrieb der Maschine schliessen sich manchmal die Schieber durch die Vibration<br><br> <img src="https://user-images.githubusercontent.com/42463588/132126754-3b9531fb-09e6-418e-8783-d47c24b6b87a.JPG" width="400" border = "0" alt="Absaugung 1">
 * mit RFID-Chip anmelden und Fräse einschalten
    * [Einloggen](#Freigabe-mit-RFID-Chip)
    * [Einschalten](#Einschalten)
