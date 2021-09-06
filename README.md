@@ -46,7 +46,6 @@ https://www.feinewerkzeuge.de/
 * Abstand der Aluseitenteile zum Fräser einstellen (evtl. mit Meßuhr) und fixieren
 * Federkämme montieren
   * 2 Stück an den Seitenführungsteilen und ggf. 2 Stück auf der Grundplatte
-
 * mit RFID-Chip anmelden und Fräse am Maschinenschalter einschalten
 
 <img src="https://user-images.githubusercontent.com/42463588/132126728-3544ec4e-59bf-4503-900f-78e61874114b.JPG" width="400" border = "0" alt="RFID-Reader"> <img src="https://user-images.githubusercontent.com/42463588/132126785-ce67e36d-4c6e-4775-abb4-1d5699ec893a.jpg" width="400" border = "0" alt="Maschinenschalter">
