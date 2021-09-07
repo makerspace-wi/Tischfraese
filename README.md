@@ -6,7 +6,7 @@ Makerspace Wiesbaden DIY Tischfräse
 
 # Vorwort
 Es handelt sich dabei um eine leistungsstarke, stationäre <b>Holz Tisch-Fräse</b>, die von Jens L. entworfen und aufgebaut wurde.<br>
-Der momentan genutzte Fräsmotor hat eine Leistung von 2.400 Watt
+Der momentan genutzte Fräsmotor hat eine Leistung von 2.000 Watt
 
 ### Einweisungen
 Die Tisch-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die Einweisung dauert ca. 1,5 Stunden und es erfolgt direkt danach die Freischaltung des entsprechenden Mitglieds.
@@ -16,7 +16,8 @@ Im ToolsLocker Fach "Bohrer/Fräser" (Freischaltung erforderlich) befindet sich 
 Bitte immer sicherstellen, dass nach der Arbeit das Set - komplett - zurückgestellt wird und ggf. defekte Fräser im Kanal #schadensmelder gemeldet werden.
 
 ### Thema Fräser ###
-Jeder Nutzer der Tisch-Fräse sollte sich eigne Holz Fräser anschaffen, vielleicht auch mit jemandem teilen.<br>
+Jeder Nutzer der Tisch-Fräse sollte sich eigene Holz Fräser anschaffen, vielleicht auch mit jemandem teilen.<br>
+Im Makerspace haben wir für die Fräse Spannzangen in den Größen 8mm, 12mm und 1/2 Zoll. 
 
 Bezugsquelle(n):<br> 
 https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/2-schneider/Schaftfraeser-HOLZ/ oder<br>
@@ -34,8 +35,8 @@ https://www.feinewerkzeuge.de/
 
 * Fräshöhe einstellen
   * zuerst Arretierung lösen
-  * dann mit Höhenverstellwerkzeug und Meßuhr dei gewünschte Höhe einstellen
-  * danach unbedigt wieder die Arretierung spannen
+  * dann mit Höhenverstellwerkzeug und Meßuhr die gewünschte Höhe einstellen
+  * danach unbedingt wieder die Arretierung spannen
 
 <img src="https://user-images.githubusercontent.com/42463588/132126943-c8ca935b-9feb-4647-8f93-f086b745f2a7.jpg" width="400" border = "0" alt="Höheneinstellung 1">  <img src="https://user-images.githubusercontent.com/42463588/132127771-7d1f2245-ee75-4da5-8160-ad52389da67f.jpg" width="400" border = "0" alt="Höheneinstellung 2">
 
