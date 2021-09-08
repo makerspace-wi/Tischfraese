@@ -47,7 +47,7 @@ https://www.feinewerkzeuge.de/
 <img src="https://user-images.githubusercontent.com/42463588/132127005-0a6c4dca-7b4f-4121-a166-683881705dfb.jpg" width="400" border = "0" alt="Geschwindigkeit">
 
 * Abstand der Alu-Seitenführungen zum Fräser einstellen (evtl. mit Meßuhr) und fixieren
-* Federkämme montieren
+* Federkämme (Feather-Boards) montieren, um das Werkstück zu arretieren und Unfälle zu vermeiden.
   * 2 Stück an den Seitenführungsteilen und ggf. 2 Stück auf der Grundplatte
 * mit RFID-Chip anmelden und Fräse am Maschinenschalter einschalten
 
