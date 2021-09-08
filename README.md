@@ -56,6 +56,7 @@ https://www.feinewerkzeuge.de/
 * Nach den Arbeiten
   * Fräse ausschalten und Abmelden
   * Federkämme (Feather-Boards) demontieren und zurück in das Wandregal
+  * Abdeckplatte zurück in das Wandregal
   * Fräsmotor in die obere Stellung (Anschlag) bringen 
   * Fräser, Spannzange und Überwurfmutter ausbauen - Spannzange und Überwurfmutter zurück in den grünen Behältern legen
   * alle Flächen und Boden absaugen - auch prüfen ob die Absaugkanäle frei sind - ggf. manuell reinigen
