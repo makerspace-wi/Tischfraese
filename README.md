@@ -52,3 +52,11 @@ https://www.feinewerkzeuge.de/
 * mit RFID-Chip anmelden und Fräse am Maschinenschalter einschalten
 
 <img src="https://user-images.githubusercontent.com/42463588/132126728-3544ec4e-59bf-4503-900f-78e61874114b.JPG" width="400" border = "0" alt="RFID-Reader"> <img src="https://user-images.githubusercontent.com/42463588/132126785-ce67e36d-4c6e-4775-abb4-1d5699ec893a.jpg" width="400" border = "0" alt="Maschinenschalter">
+
+* Nach den Arbeiten
+  * Fräse ausschalten und Abmelden
+  * Federkämme (Feather-Boards) demontieren und zurück in das Wandregal
+  * Fräsmotor in die oberen Stellung (Anschlag) bringen 
+  * Fräser, Spannzange und Überwurfmutter ausbauen - Spannzange und Überwurfmutter zurück in den grünen Behältern legen
+  * alle Flächen und Boden abaugen - auch prüfen ob die Absaugkanäle frei sind - ggf. manuell reinigen
+  * Spänebehälter entleeren
